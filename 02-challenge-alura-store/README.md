@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas - Alura Store LATAM
+# 📊 Análisis de Ventas
 
 ## 🧠 Desafío
 
